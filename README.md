@@ -1,6 +1,6 @@
-# React Rajasthan Meet-up Accessibility Demo
+# Accessibility Demo
 
-A comprehensive React project demonstrating various accessibility concepts including semantic HTML, color accessibility, map accessibility, ARIA live regions, focus traps, and common accessibility issues. Perfect for conference presentations and accessibility training sessions.
+A comprehensive React project demonstrating various accessibility concepts including semantic HTML, color accessibility, map accessibility, ARIA live regions, focus traps, and common accessibility issues. Perfect for learning accessibility best practices and understanding common accessibility issues.
 
 ## Features
 
@@ -131,29 +131,6 @@ A comprehensive React project demonstrating various accessibility concepts inclu
    - Focus management
    - Overall user experience impact
 
-## Conference Presentation Tips
-
-### Before the Demo
-- Test with your preferred screen reader beforehand
-- Have backup plans (recorded video, live coding)
-- Prepare talking points for each section
-
-### During the Demo
-- Start with the home page for overview
-- Demonstrate semantic vs non-semantic comparison
-- Show color accessibility with simulation toggle
-- Test interactive features (focus traps, live regions)
-- Use screen reader shortcuts to navigate
-- Explain what users are hearing
-- Emphasize the impact on real users
-
-### Key Messages
-- Accessibility is not just about code quality
-- It directly impacts user experience for people with disabilities
-- Multiple accessibility concepts work together
-- Small changes can make a big difference
-- Testing with real assistive technologies is crucial
-
 ## Technical Details
 
 ### Built With
@@ -187,4 +164,4 @@ This project is open source and available under the MIT License.
 
 ## About
 
-Created for the React Rajasthan Meet-up to demonstrate accessibility best practices and common issues in web development. Perfect for educational purposes and conference presentations.
+Created to demonstrate accessibility best practices and common issues in web development. Perfect for educational purposes, learning accessibility concepts, and understanding how to build inclusive web applications.
